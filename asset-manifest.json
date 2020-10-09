@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/elfsightTest/static/css/main.22fdc546.chunk.css",
+    "main.js": "/elfsightTest/static/js/main.3d294a0b.chunk.js",
+    "main.js.map": "/elfsightTest/static/js/main.3d294a0b.chunk.js.map",
+    "runtime-main.js": "/elfsightTest/static/js/runtime-main.9fabc956.js",
+    "runtime-main.js.map": "/elfsightTest/static/js/runtime-main.9fabc956.js.map",
+    "static/js/2.f4f1dcdc.chunk.js": "/elfsightTest/static/js/2.f4f1dcdc.chunk.js",
+    "static/js/2.f4f1dcdc.chunk.js.map": "/elfsightTest/static/js/2.f4f1dcdc.chunk.js.map",
+    "index.html": "/elfsightTest/index.html",
+    "precache-manifest.79c9b6bca8fac8b92bda3440bb795f01.js": "/elfsightTest/precache-manifest.79c9b6bca8fac8b92bda3440bb795f01.js",
+    "service-worker.js": "/elfsightTest/service-worker.js",
+    "static/css/main.22fdc546.chunk.css.map": "/elfsightTest/static/css/main.22fdc546.chunk.css.map",
+    "static/js/2.f4f1dcdc.chunk.js.LICENSE.txt": "/elfsightTest/static/js/2.f4f1dcdc.chunk.js.LICENSE.txt",
+    "static/media/addInfo.svg": "/elfsightTest/static/media/addInfo.2e91137a.svg",
+    "static/media/analyzes.svg": "/elfsightTest/static/media/analyzes.d6ffedd2.svg",
+    "static/media/MyRecords.css": "/elfsightTest/static/media/arrow-left.95804ba3.svg",
+    "static/media/doctors.svg": "/elfsightTest/static/media/doctors.5d3b5e73.svg",
+    "static/media/girl.svg": "/elfsightTest/static/media/girl.af0e0c68.svg",
+    "static/media/help.svg": "/elfsightTest/static/media/help.0d5f1085.svg",
+    "static/media/helpfull.svg": "/elfsightTest/static/media/helpfull.1e767921.svg",
+    "static/media/history.svg": "/elfsightTest/static/media/history.06d31641.svg",
+    "static/media/infoPetient.svg": "/elfsightTest/static/media/infoPetient.c0cfdf18.svg",
+    "static/media/CalendarHeader.css": "/elfsightTest/static/media/right.0c2ef03c.svg",
+    "static/media/look.svg": "/elfsightTest/static/media/look.a4c6a898.svg",
+    "static/media/man.svg": "/elfsightTest/static/media/man.b8c130e8.svg",
+    "static/media/message.svg": "/elfsightTest/static/media/message.f48047cf.svg",
+    "static/media/notifications.svg": "/elfsightTest/static/media/notifications.11ecc6cf.svg",
+    "static/media/profile.svg": "/elfsightTest/static/media/profile.39791846.svg",
+    "static/media/search.svg": "/elfsightTest/static/media/search.622cc867.svg",
+    "static/media/select.svg": "/elfsightTest/static/media/select.22dae7c4.svg",
+    "static/media/test.svg": "/elfsightTest/static/media/test.8fc2b05f.svg",
+    "static/media/velox.svg": "/elfsightTest/static/media/velox.d1335359.svg",
+    "static/media/woman.svg": "/elfsightTest/static/media/woman.60a46b9f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fabc956.js",
+    "static/js/2.f4f1dcdc.chunk.js",
+    "static/css/main.22fdc546.chunk.css",
+    "static/js/main.3d294a0b.chunk.js"
+  ]
+}
