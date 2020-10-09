@@ -1,0 +1,21 @@
+.myRecord-list {
+    display: flex;
+    list-style: none;
+    flex-direction: column;
+    height: 630px;
+    overflow: auto
+}
+
+.myRecord-record {
+    text-align: center;
+    margin:  auto;
+}
+
+ul {
+    margin-left: 20px;
+    padding: 0;
+}
+
+.qw {
+    margin-right: 20px;
+}

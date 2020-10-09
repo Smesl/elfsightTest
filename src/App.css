@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+
+.flex-container {
+  display: flex;
+}
+
+.container {
+  width: 100%;
+  background: #fffafa;
+}
+
+.myRecord-container {
+  display: flex;
+}

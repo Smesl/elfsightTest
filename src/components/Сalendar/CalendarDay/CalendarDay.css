@@ -1,0 +1,18 @@
+.calendar-day {
+    display: flex;
+    background: #EBE7FF;
+    font-size: 14px;
+}
+
+.calendar-main__day__mon {
+    padding-left: 40px;
+}
+
+.calendar-main__day {
+    padding-left: 60px;
+}
+
+.calendar-main__day_sun {
+    padding-left: 60px;
+    padding-right: 40px;
+}

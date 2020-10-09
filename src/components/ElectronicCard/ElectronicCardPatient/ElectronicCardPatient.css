@@ -1,0 +1,35 @@
+.electronic-petient {
+    display: flex;
+    align-items: center;
+    width: 500px;
+    height: 163px;
+    margin-right: 13px;
+    background-color: white;
+    margin-bottom: 15px;
+    padding: 20px 20px 0 20px;
+    box-shadow: 0px 0px 5px #EBE7FF;
+    border-radius: 5px;
+}
+
+.electronic-petient img {
+    padding: 67px 44px;
+}
+
+.electronic-petient__info {
+    font-size: 28px;
+    padding-bottom: 10px;
+}
+
+.electronic-petient__border {
+    margin-bottom: 15px;
+    border: 1px solid #EBE7FF;
+}
+
+.electronic-petient__item {
+    padding-bottom: 10px;
+}
+
+.electronic-petient__list {
+    display: block;
+    list-style: disc;
+}

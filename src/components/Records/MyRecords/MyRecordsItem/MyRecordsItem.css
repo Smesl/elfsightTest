@@ -1,0 +1,57 @@
+.myRecord-item {
+    margin-bottom: 15px;
+    margin-right: 13px;
+    width: 435px;
+    padding: 20px;
+    box-shadow: 0px 0px 5px #EBE7FF;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.myRecord-item__adress {
+    max-width: 295px;
+}
+
+.information-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.myRecord-item__date {
+    font-weight: 500;
+    font-weight: bold;
+}
+
+.myRecord-item__btn {
+    padding: 12px 17px 13px;
+    background: #7761FF;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+    color: white;
+}
+
+.myRecord-item__information {
+    margin-top: 15px;
+}
+
+.myRecord-item__information img {
+    margin-right: 9px;
+    vertical-align: middle;
+    border-radius: 50%;
+}
+
+.myRecord-item__information_block {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.myRecord-item__information_name {
+    font-weight: bold;
+}
+
+.myRecord-item__information_profession {
+    color: #EBE7FF;
+}
+

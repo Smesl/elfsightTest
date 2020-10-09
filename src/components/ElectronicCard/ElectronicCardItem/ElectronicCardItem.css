@@ -1,0 +1,33 @@
+.electronic-item {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    background-color: white;
+    width: 500px;
+    height: 143px;
+    margin-right: 13px;
+    margin-bottom: 15px;
+    padding: 20px;
+    box-shadow: 0px 0px 5px #EBE7FF;
+    border-radius: 5px;
+}
+
+h2 {
+    margin: 0;
+}
+
+.electronic-item__border {
+    border: 1px solid #EBE7FF;
+}
+
+.electronic-item__img {
+    padding: 67px 44px;
+}
+
+.electronic-item__information {
+    padding-top: 20px;
+}
+
+.electronic-item__heading {
+    padding-bottom: 10px;
+}

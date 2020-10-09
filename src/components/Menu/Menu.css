@@ -1,0 +1,65 @@
+.nav {
+    display: flex;
+}
+.nav-list {
+    display: block;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.menu {
+    min-width: 190px;
+    background: #003B72;
+}
+
+.menu__application {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.menu__button {
+    padding: 15px 24px 13px 25px;
+    border-radius: 5px;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    color: white;
+    background-color: #7761FF;
+}
+
+.menu__li {
+    padding: 20px 0 20px 20px;
+}
+
+.menu__link:first-child {
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+}
+
+
+.menu__link:not(:first-child) {
+    padding-left: 14px;
+    text-decoration: none;
+    font-size: 14px;
+    color: white;
+    vertical-align: top;
+}
+
+.menu__help {
+    margin-top: 320px;
+    padding-left: 20px;
+}
+
+.menu__help a {
+    padding-left: 14px;
+    vertical-align: top;
+}
+
+.menu__velox {
+    padding-left: 20px;
+    padding-top: 14px;
+}

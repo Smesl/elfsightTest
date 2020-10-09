@@ -1,0 +1,26 @@
+.calendar-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #7761FF;
+}
+
+.calendar-header__left {
+    width: 8px;
+    height: 14px;
+    background-image: url(../../../img/left.svg);
+    background-repeat: no-repeat
+}
+
+.calendar-header__right {
+    width: 8px;
+    height: 14px;
+    background-image: url(../../../img/right.svg);
+    background-repeat: no-repeat
+}
+
+.calendar-header__date {
+    font-size: 14px;
+    color: white;
+    padding: 20px 35px;
+}

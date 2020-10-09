@@ -1,0 +1,57 @@
+.record-item {
+    margin-right: 13px;
+    margin-top: 15px;
+    width: 475px;
+    padding: 20px;
+    box-shadow: 0px 0px 5px #EBE7FF;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.record-item__adress {
+    max-width: 295px;
+}
+
+.information-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.record-item__date {
+    font-weight: 500;
+    font-weight: bold;
+}
+
+.record-item__btn {
+    padding: 12px 17px 13px;
+    background: #7761FF;
+    border-radius: 5px;
+    border: none;
+    font-weight: bold;
+    color: white;
+}
+
+.record-item__information {
+    margin-top: 15px;
+}
+
+.record-item__information img {
+    margin-right: 9px;
+    vertical-align: middle;
+    border-radius: 50%;
+}
+
+.record-item__information_block {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.record-item__information_name {
+    font-weight: bold;
+}
+
+.record-item__information_profession {
+    color: #EBE7FF;
+}
+

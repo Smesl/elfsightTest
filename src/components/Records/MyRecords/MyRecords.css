@@ -1,0 +1,18 @@
+.arrow-left {
+    margin-left: 40px;
+    width: 18px;
+    height: 14px;
+    background-image: url(../../../img/arrow-left.svg);
+    background-repeat: no-repeat;
+}
+
+.myRecord-heading {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.myRecord__heading_text {
+    padding-left: 14px;
+}
